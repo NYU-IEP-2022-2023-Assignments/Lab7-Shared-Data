@@ -4,6 +4,6 @@
 
 This repository is to upload your processed json files to share with the class
 
-assignment link: https://classroom.github.com/a/MUTgJgYK
+assignment link: https://classroom.github.com/a/YtXXOdFZ
 
 this is a "group" assignment so everyone should be able to access the same repository
